@@ -1,4 +1,4 @@
-# client1
+# BMI cALCULATOR
 
 A new Flutter project.
 
